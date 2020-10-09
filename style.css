@@ -1,0 +1,101 @@
+.container-3 {
+  display: flex;
+ 
+}
+
+.container-3-item {
+  padding: 5em;
+}
+
+.container-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3em;
+}
+
+table, th, td {
+    padding: 10px;
+}
+
+.work-experience {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 3em;
+}
+
+
+.title {
+  display: inline;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  padding: 2em 2em 1em 2em;
+}
+
+
+
+h1 {
+    font-weight: bold !important;
+    font-size: 10em !important;
+    font-family: 'Waiting for the Sunrise', cursive;
+}
+
+.main {
+  background-color: #D26F4E;
+}
+
+
+.footer {
+  display: flex;
+  background-color: #7192BE;
+  justify-content: space-evenly;
+}
+
+.footer-item {
+  color: black;
+}
+
+
+.profile-photo {
+  display: flex;
+  border-radius: 80px;
+  margin: 2.5em;
+  width: 30%; 
+}
+
+ /* Header: */
+
+
+.container-1 {
+      display: flex;
+    justify-content: flex-end;
+    background-color: #7192BE;
+  }
+
+  .header-links {
+
+    padding: .4em;
+    display: inline-flex;
+    font-size: 1.5em !important;
+  }
+
+.container-2 {
+display: inline-flex;
+align-items: center;
+margin: 0 150px 0 150px;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+}
+
+
+.bio {
+  font-size: 1.3em;
+  padding: 5em, 5em, 5em, 1em;
+}
