@@ -12,6 +12,24 @@
 }  
 
 
+.navbar {
+  background-color: #7192BE;
+}
+
+.navbar-item {
+  display: inline;
+  list-style: none;
+  font-size: 1.2rem;
+}
+
+#about-me-title {
+  padding: 4%;
+}
+
+.main-bio {
+  text-align: center;
+  padding: 5% 15% 5% 15%;
+}
 
 
 .bio {
